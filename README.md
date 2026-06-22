@@ -46,6 +46,8 @@ Hinweis: Ein direkter Doppelklick auf `index.html` kann je nach Browser nicht fu
 
 Lege im Ordner `data/beitraege/` eine eigene Datei an.
 
+Mehrere Beiträge entstehen durch mehrere Dateien. Jede Quelldatei enthält genau einen Beitrag; der Build-Schritt führt alle Dateien zu `data/beitraege.json` zusammen.
+
 Datei:
 
 ```text
