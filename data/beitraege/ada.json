@@ -1,6 +1,14 @@
-{
-  "name": "Ada",
-  "rolle": "Teilnehmerin",
-  "beitrag": "Ich lege meinen Beitrag als eigene JSON-Datei an.",
-  "farbe": "green"
-}
+[
+  {
+    "name": "Ada",
+    "rolle": "Teilnehmerin",
+    "beitrag": "Ich lege meinen Beitrag als eigene JSON-Datei an.",
+    "farbe": "green"
+  },
+  {
+    "name": "Ada",
+    "rolle": "Teilnehmerin",
+    "beitrag": "Ich lege meinen zweiten Beitrag in die selbe JSON-Datei.",
+    "farbe": "green"
+  }
+]
