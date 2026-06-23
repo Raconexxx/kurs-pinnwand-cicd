@@ -36,6 +36,12 @@
     "farbe": "blue"
   },
   {
+    "name": "Kevin",
+    "rolle": "Teilnehmer",
+    "beitrag": "Der erste Beitrag von Kevin.",
+    "farbe": "teal"
+  },
+  {
     "name": "Lea",
     "rolle": "Teilnehmerin",
     "beitrag": "Nach dem Merge wird mein Beitrag auf der Seite sichtbar.",
