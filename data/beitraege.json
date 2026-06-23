@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ada",
+    "rolle": "Teilnehmerin",
+    "beitrag": "Ich lege meinen Beitrag als eigene JSON-Datei an.",
+    "farbe": "green"
+  },
+  {
+    "name": "Ada",
+    "rolle": "Teilnehmerin",
+    "beitrag": "Ich lege meinen zweiten Beitrag in die selbe JSON-Datei.",
+    "farbe": "green"
+  },
+  {
+    "name": "Ada",
+    "rolle": "Teilnehmerin",
+    "beitrag": "Ich lege meinen dritten Beitrag in die selbe JSON-Datei.",
+    "farbe": "green"
+  },
+  {
+    "name": "Ben",
+    "rolle": "Teilnehmer",
+    "beitrag": "Ich prüfe vor dem Pull Request, ob die JSON-Datei gültig ist.",
+    "farbe": "amber"
+  },
+  {
+    "name": "Cem",
+    "rolle": "Teilnehmer",
+    "beitrag": "Mein Commit soll klein und gut nachvollziehbar bleiben.",
+    "farbe": "gray"
+  },
+  {
+    "name": "Demo-Team",
+    "rolle": "Teilnehmende",
+    "beitrag": "Wir üben Fork, Commit, Pull Request und Review an einem sehr kleinen Beispiel.",
+    "farbe": "blue"
+  },
+  {
+    "name": "Kevin",
+    "rolle": "Teilnehmer",
+    "beitrag": "Der erste Beitrag von Kevin.",
+    "farbe": "teal"
+  },
+  {
+    "name": "Lea",
+    "rolle": "Teilnehmerin",
+    "beitrag": "Nach dem Merge wird mein Beitrag auf der Seite sichtbar.",
+    "farbe": "teal"
+  },
+  {
+    "name": "Mina",
+    "rolle": "Teilnehmerin",
+    "beitrag": "GitHub Actions zeigt, ob aus meiner Änderung eine saubere Webseite gebaut werden kann.",
+    "farbe": "blue"
+  },
+  {
+    "name": "Niko",
+    "rolle": "Trainer",
+    "beitrag": "Ich zeige heute, wie aus kleinen Änderungen ein gemeinsames Projekt entsteht.",
+    "farbe": "teal"
+  },
+  {
+    "name": "Niko",
+    "rolle": "Trainer",
+    "beitrag": "Meine zweite Karte zeigt: Eine Datei kann auch mehrere Beiträge enthalten.",
+    "farbe": "green"
+  },
+  {
+    "name": "Niko",
+    "rolle": "Trainer",
+    "beitrag": "Meine dritte Karte zeigt: Das ich es kann.",
+    "farbe": "teal"
+  }
+]
